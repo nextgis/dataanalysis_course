@@ -15,5 +15,6 @@
 Перцептрон для MNIST       | https://github.com/nextgis/dataanalysis_course/blob/master/NNets/TF/SimpleClassifier.ipynb
 Сверточная сеть для MNIST  | https://github.com/nextgis/dataanalysis_course/blob/master/NNets/TF/CNN.ipynb
 Введение в рекур. сети     | https://github.com/nextgis/dataanalysis_course/blob/master/NNets/07-RNN-intro.ipynb
+Параметры настроек         | https://github.com/nextgis/dataanalysis_course/blob/master/NNets/08-Tuning.ipynb
 
 
